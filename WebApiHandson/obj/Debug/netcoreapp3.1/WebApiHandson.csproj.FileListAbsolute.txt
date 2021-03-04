@@ -1,0 +1,206 @@
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.exe
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.deps.json
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.runtimeconfig.json
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\staticwebassets\WebApiHandson.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\staticwebassets\WebApiHandson.StaticWebAssets.xml
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiHandson.styles.css
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\source\repos\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.exe
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.deps.json
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.runtimeconfig.json
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.pdb
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\staticwebassets\WebApiHandson.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\staticwebassets\WebApiHandson.StaticWebAssets.xml
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiHandson.styles.css
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.dll
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.pdb
+C:\Users\lenovo\source\repos\WebAPI Crud operation\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.genruntimeconfig.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.exe
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.deps.json
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.runtimeconfig.json
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.runtimeconfig.dev.json
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\WebApiHandson.pdb
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AdaptiveCards.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csprojAssemblyReference.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.AssemblyInfoInputs.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.AssemblyInfo.cs
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csproj.CoreCompileInputs.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.MvcApplicationPartsAssemblyInfo.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\staticwebassets\WebApiHandson.StaticWebAssets.Manifest.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\staticwebassets\WebApiHandson.StaticWebAssets.xml
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiHandson.styles.css
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.RazorTargetAssemblyInfo.cache
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.csproj.CopyComplete
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.dll
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.pdb
+D:\Celebal\Proactive\WebApiHandson\WebApiHandson\obj\Debug\netcoreapp3.1\WebApiHandson.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHandson", "WebApiHandson\WebApiHandson.csproj", "{AAAC5202-45CC-442B-9AED-4B04282C1E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBot", "TestBot\TestBot.csproj", "{9ED0DF25-BB7C-4EB6-8399-02280C877389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAC5202-45CC-442B-9AED-4B04282C1E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAC5202-45CC-442B-9AED-4B04282C1E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAC5202-45CC-442B-9AED-4B04282C1E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAC5202-45CC-442B-9AED-4B04282C1E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED0DF25-BB7C-4EB6-8399-02280C877389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED0DF25-BB7C-4EB6-8399-02280C877389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED0DF25-BB7C-4EB6-8399-02280C877389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED0DF25-BB7C-4EB6-8399-02280C877389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6B7731-3811-477C-9F3B-95799A015557}
+	EndGlobalSection
+EndGlobal
